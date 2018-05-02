@@ -1,0 +1,48 @@
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\MainWindow.g.cs
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\App.g.cs
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\Курсовая_MarkupCompile.cache
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\Курсовая_MarkupCompile.lref
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\bin\Debug\Курсовая.exe.config
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\bin\Debug\Курсовая.exe
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\bin\Debug\Курсовая.pdb
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\MainWindow.baml
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\Курсовая.g.resources
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\Курсовая.exe
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\Курсовая.pdb
+c:\Users\Rusnab99\documents\visual studio 2017\Projects\Курсач\Курсовая\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Курсач\Курсовая\obj\Debug\Window1.g.cs
+C:\Users\Rusnab99\Documents\Visual Studio 2017\Projects\Курсач\Курсовая\obj\Debug\Window1.baml
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\MainWindow.g.cs
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\App.g.cs
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\Курсовая_MarkupCompile.cache
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\Курсовая_MarkupCompile.lref
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\Курсовая.exe
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\Курсовая.pdb
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\bin\Debug\Курсовая.exe.config
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\bin\Debug\Курсовая.exe
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\bin\Debug\Курсовая.pdb
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\MainWindow.baml
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\Курсовая.g.resources
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+\\DESKTOP-CPB6LM5\Users\rusnab99\Desktop\Курсач\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\Simple Styles.baml
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\MainWindow.g.cs
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\App.g.cs
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\Курсовая_MarkupCompile.cache
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\Курсовая_MarkupCompile.lref
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\App.baml
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\MainWindow.baml
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\Курсовая.g.resources
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Rusnab99\Desktop\курсач\Курсовая\obj\Debug\Курсовая.pdb
